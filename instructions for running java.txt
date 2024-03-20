@@ -2,7 +2,7 @@ Save Java code in WordCounter.java.
 Open terminal.
 Navigate to directory with WordCounter.java.
 Compile: javac WordCounter.java.
-Run: java WordCounter.
+Run: java WordCount
 View word counts.
 Optionally modify inputText.
 Repeat steps 4-6 for new inputs.
